@@ -168,7 +168,7 @@ class ModelHub:
                                         "./models",
                                         info["application"],
                                         model_name,
-                                        os.path.basename(info["url"]))
+                                        info["name"])
         else:
             info["path"] = path
 
