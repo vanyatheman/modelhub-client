@@ -2,11 +2,11 @@
 
 ## Installation
 ```bash
-pip3 install git+https://github.com/ria-com/modelhub-client.git
+pip3 install git+https://github.com/vanyatheman/modelhub-client.git
 ```
 or
 ```bash
-git clone https://github.com/ria-com/modelhub-client.git
+git clone https://github.com/vanyatheman/modelhub-client.git
 cd ./modelhub-client
 python3 setup.py install
 ```
